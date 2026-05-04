@@ -1,5 +1,7 @@
 # Zomato Cart Abandonment & Conversion Optimization Case Study
 
+📊 End-to-End Product Analytics Case Study | Power BI • SQL • Primary Research
+
 Most users don’t open Zomato to browse.  
 They open it to order.  
 
