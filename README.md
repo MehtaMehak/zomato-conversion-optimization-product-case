@@ -1,6 +1,6 @@
 # Zomato Cart Abandonment & Conversion Optimization Case Study
 
-📊 End-to-End Product Analytics Case Study | Power BI • SQL • Primary Research
+📊 End-to-End Product Analytics Case Study | Power BI • SQL • Primary Research  
 
 Most users don’t open Zomato to browse.  
 They open it to order.  
@@ -121,6 +121,30 @@ but conversion drops significantly (~18%).
 
 ---
 
+## 📊 Dashboard Snapshots
+
+These dashboards translate user behavior into actionable product insights across the ordering journey.
+
+### 1. User Behavior & Intent
+![User Intent](01_user_intent_analysis.png)
+
+### 2. Cart Abandonment Analysis
+![Cart Abandonment](02_cart_abandonment_analysis.png)
+
+### 3. User Experience & Satisfaction
+![User Experience](03_user_experience_satisfaction.png)
+
+### 4. Market & Distribution
+![Market](04_market_distribution.png)
+
+### 5. Pricing & Trust Analysis
+![Pricing](05_pricing_trust_analysis.png)
+
+### 6. Product Strategy & Recommendations
+![Strategy](06_product_strategy.png)
+
+---
+
 ## 🧠 Product Recommendations
 
 ### 💰 Pricing & Payment
@@ -190,10 +214,12 @@ but conversion drops significantly (~18%).
 
 ## 📁 Project Structure
 
-* `/dashboard` → Power BI file + PDF  
 * `/sql` → SQL queries used for analysis  
-* `/research` → Survey & research insights  
-* `/images` → Dashboard screenshots  
+* `survey_data_cleaned.csv` → Cleaned dataset  
+* `survey.md` → Survey insights summary  
+* `survey_questions_full.md` → Full questionnaire  
+* Power BI `.pbix` file → Dashboard  
+* Dashboard screenshots → Included above  
 
 ---
 
